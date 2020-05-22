@@ -1,0 +1,6 @@
+export const BUY_ASSET = "BUY_ASSET";
+export const CREATE_ASSET = "CREATE_ASSET";
+export const SELL_ASSET = "SELL_ASSET";
+export const LOAD_ASSETS_SUCCESS = "LOAD_ASSETS_SUCCESS";
+export const LOAD_HISTORY = "LOAD_HISTORY";
+export const UPDATE_ASSET_HISTORY = "UPDATE_ASSET_HISTORY";
